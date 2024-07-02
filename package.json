@@ -1,0 +1,18 @@
+{
+    "name": "ertu-v14",
+    "author": "Ertu",
+    "version": "1.0.0",
+    "license": "LGPL-3.0-or-later",
+    "main": "ertu.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "ertu.js"
+    },
+    "dependencies": {
+        "@discordjs/voice": "^0.17.0",
+        "axios": "^1.7.2",
+        "canvafy": "^7.1.0",
+        "discord.js": "^14.15.3",
+        "mongoose": "^8.4.1"
+    }
+}
